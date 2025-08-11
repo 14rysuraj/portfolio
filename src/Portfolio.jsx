@@ -11,7 +11,7 @@ import gsapIcon from "./assets/gsap.svg";
 import springBoot from "./assets/springBoot.svg";
 import pandas from "./assets/Pandas.svg";
 import matplotlib from "./assets/Matplotlib.svg";
-import scikitLearn from "./assets/Scikit-learn.svg";
+import scikitLearn from "./assets/scikit-learn.svg";
 import numpy from "./assets/Numpy.svg";
 import java from "./assets/Java.svg";
 import javaScript from "./assets/JavaScript.svg";
