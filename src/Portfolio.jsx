@@ -12,7 +12,7 @@ import springBoot from "./assets/springBoot.svg";
 import pandas from "./assets/Pandas.svg";
 import matplotlib from "./assets/Matplotlib.svg";
 import scikitLearn from "./assets/scikit-learn.svg";
-import numpy from "./assets/Numpy.svg";
+import numpy from "./assets/NumPy.svg";
 import java from "./assets/Java.svg";
 import javaScript from "./assets/JavaScript.svg";
 import linux from "./assets/Linux.svg";
